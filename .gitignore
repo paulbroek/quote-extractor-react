@@ -59,6 +59,11 @@ local.properties
 *.iml
 /android/
 
+# Expo
+.expo
+__generated__
+web-build
+
 # Node
 node_modules
 *.log
